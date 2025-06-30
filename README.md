@@ -1,5 +1,5 @@
 
-# D-Token Generator
+# Denuvo Automated Bot
 
 A discord bot that generate denuvo token for enjoying games denuvo-based games
 
