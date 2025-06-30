@@ -33,10 +33,7 @@ None. closed source
 ## Demo
 
 Preview:
-<video width="600" controls>
-  <source src="https://github.com/jacejupiter/denuvo-bot-automated/raw/refs/heads/main/Discord_pBf0d726Re.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video]([https://img.youtube.com/vi/your_thumbnail_image_url_here/0.jpg](https://i.imgur.com/LUnSCFY.png))](https://github.com/jacejupiter/denuvo-bot-automated/raw/refs/heads/main/Discord_pBf0d726Re.mp4)
 
 
 ## Support
