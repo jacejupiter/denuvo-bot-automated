@@ -33,8 +33,7 @@ None. closed source
 ## Demo
 
 Preview:
-[![Watch the video]([https://img.youtube.com/vi/your_thumbnail_image_url_here/0.jpg](https://i.imgur.com/LUnSCFY.png))](https://github.com/jacejupiter/denuvo-bot-automated/raw/refs/heads/main/Discord_pBf0d726Re.mp4)
-
+![image](https://github.com/user-attachments/assets/154ee224-3919-4a01-a63f-f193f874cee0)
 
 ## Support
 
