@@ -31,9 +31,7 @@ None. closed source
 
 
 ## Demo
-
-Preview:
-![image](https://github.com/user-attachments/assets/154ee224-3919-4a01-a63f-f193f874cee0)
+![image](https://github.com/user-attachments/assets/958146bf-ae84-48d2-b502-059865716b10)
 ![image](https://github.com/user-attachments/assets/9e179eda-a3af-4ac9-8335-97f67774432c)
 ![image](https://github.com/user-attachments/assets/7f4126eb-1972-44a2-b295-1da4b5ca54df)
 
